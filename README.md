@@ -1,3 +1,3 @@
-[CS-STUDY](https://github.com/empodi/CS-study){:target="\_blank"}
+<a href="https://github.com/empodi/CS-study" target="\_blank" >CS-STUDY</a>
 
-[RECORD](https://fragrant-chameleon-864.notion.site/fed561c388b54941ba9739990172c4ce){:target="\_blank"}
+<a href="https://fragrant-chameleon-864.notion.site/fed561c388b54941ba9739990172c4ce" target="\_blank"> RECORD </a>
